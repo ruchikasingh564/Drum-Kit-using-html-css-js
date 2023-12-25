@@ -49,20 +49,10 @@ footer {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: rgb(4, 184, 10);
-  opacity: 0.8;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.2;
 }
-
-.red {
-  color: red;
-}
-
 .drum {
   outline: none;
   border: 10px solid #23293b;
